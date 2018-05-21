@@ -1,21 +1,21 @@
 {
 "Veg Cheese": [
-"ingredients" : ["cheese", "tomato" ]
-"Price" : 500;
+"ingredients" : ["cheese", "tomato" ],
+"Price" : 500
 ],
 
 "Non - Veg Cheese": [
-"ingredients" : ["cheese", "chiken" ]
-"Price" : 600;
+"ingredients" : ["cheese", "chiken" ],
+"Price" : 600
 ],
 
 "Cheese burst": [
-"ingredients" : ["extra-cheese", "tomato" ]
-"Price" : 700;
+"ingredients" : ["extra-cheese", "tomato" ],
+"Price" : 700
 ],
 
-"Pan" Pizz: [
-"ingredients" : ["thin crust", "tomato" ]
-"Price" : 800;
+"Pan Pizz": [
+"ingredients" : ["thin crust", "tomato" ],
+"Price" : 800
 ]
 }
