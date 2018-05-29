@@ -1,0 +1,19 @@
+$red-color:#FF0000;
+
+h2 {
+	color:$red-color;
+}
+
+$p-border: 1px solid red;
+
+@mixin border-radius($radius) {
+	
+	border: $p-border;
+	border-radius : $radius
+
+}
+
+p {
+	
+	@include border-radius(10%);
+}
